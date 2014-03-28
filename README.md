@@ -14,7 +14,7 @@ sudo pip install pyteomics
 # Usage:
 
 ```bash
-./mgf2svg.py https://raw.githubusercontent.com/lgatto/MSnbase/master/inst/extdata/test.mgf > output.svg
+./mgf2svg.py https://raw.githubusercontent.com/OpenScienceRender/ExampleData/master/test.mgf > output.svg
 ```
 
 # Know bugs/limitations:
